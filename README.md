@@ -1,2 +1,5 @@
-# serverless-automated-cost-controls
-Sample implementation of serverless automated cost controls using AWS Budgets, Amazon SNS and AWS Lambda
+Serverless Automated Cost Controls
+
+## License Summary
+
+This sample code is made available under a modified MIT license. See the LICENSE file.
